@@ -1,6 +1,6 @@
 {
   "name": "valorant-api-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Valorant API client library for node.js",
   "main": "./lib/valorant.js",
   "scripts": {
