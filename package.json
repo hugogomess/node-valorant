@@ -1,0 +1,26 @@
+{
+  "name": "valorant-api-client",
+  "version": "0.0.1",
+  "description": "Valorant API client library for node.js",
+  "main": "lib/valorant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugogomess/node-valorant.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "valorant",
+    "valorant-api",
+    "valorant-api-client"
+  ],
+  "author": "hugogomess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugogomess/node-valorant/issues"
+  },
+  "homepage": "https://github.com/hugogomess/node-valorant#readme"
+}
